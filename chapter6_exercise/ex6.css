@@ -1,0 +1,28 @@
+.nature {
+  width: 100%;
+  height: 200px;
+}
+
+.nature:nth-child(1) {
+  background-image: url(img/box1.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.nature:nth-child(2) {
+  background-image: url(img/box2.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.nature:nth-child(3) {
+  background-image: url(img/box3.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.nature:nth-child(4) {
+  background-image: url(img/box4.jpg);
+  background-position: center;
+  background-size: cover;
+}
